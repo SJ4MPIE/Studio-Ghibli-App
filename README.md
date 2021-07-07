@@ -18,7 +18,7 @@ Just clone the repo and open index.html or an run live server
 
 ## Find Me on :
 
-Need help? Contact me at: <br />
+Contact me at: <br />
 
 [![Github](https://img.shields.io/badge/Github-SJAMPIE-green?style=for-the-badge&logo=github)](https://github.com/SJ4MPIE)
 [![Instagram](https://img.shields.io/badge/Insta-%40sam.tieman-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/sam.tieman/)
