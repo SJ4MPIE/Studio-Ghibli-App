@@ -1,5 +1,9 @@
 # Studio-Ghibli-App
-☕ Loading in JSON (Javascript object notation) through API (Application programming interface)
+☕ Loading in JSON (Javascript object notation) through API (Application programming interface). 
+The API that I used is from Stuio Ghibili an anime show. This API consist of title name, description etc..
+
+
+
 * Version: 1.0 
 
 ## Credits
