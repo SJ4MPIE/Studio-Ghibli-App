@@ -14,7 +14,7 @@ This repo is based of a tutorial written by Tania Rascia. However, in the tutori
 So I decided to update the code using the fetch() API (JavaScript ES6)
 
 ## Instructions
-Just clone the repo and open index.html or an run live server
+Just clone the repo and open index.html or run an live server
 
 ## Find Me on :
 
