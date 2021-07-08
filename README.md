@@ -14,8 +14,8 @@ The API that I used is from Stuio Ghibili, an anime show. This API consist of ti
 
 ## Note 
 
-This repo is based of a tutorial written by Tania Rascia. However, in the tutorial they still make use of XHR objects(XMLHttpRequest JavaScript ES5). 
-So I decided to update the code using the fetch() API (JavaScript ES6)
+This repo is based of a tutorial written by Tania Rascia. However, in the tutorial they still make use of XHR objects(XMLHttpRequest). 
+So I decided to update the code using the fetch() API 
 
 ## Instructions
 Just clone the repo and open index.html or run an live server
